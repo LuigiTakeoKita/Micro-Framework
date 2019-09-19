@@ -1,0 +1,15 @@
+{
+    "projectName":"Projeto",
+    "description":"Descrição",
+    "folders":[
+            "javascript",
+            "componentes"
+    ],
+    "pdo":{
+        "host":"localhost",
+        "driver":"mysql",
+        "dbName":"banco",
+        "username":"root",
+        "password":""
+    }
+}
